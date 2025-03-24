@@ -1,4 +1,4 @@
-<img align="right" style="border-radius:1rem;" src="./lovelace-profile.png" height="200" width="200">
+<img style="border-radius:1rem;" src="./lovelace-profile.png" height="200" width="200">
 
 # Lovelace
 
@@ -9,3 +9,12 @@ Lovelace is written in TypeScript and built off the [SapphireJS](https://www.sap
 # Contribution
 
 For now, the bot is being maintained by select students at SFSU. We may allow anyone to contribute at a later date.
+
+
+<!-- CONTRIBUTORS START -->
+<table>
+  <tr>
+    
+  </tr>
+</table>
+<!-- CONTRIBUTORS END -->
